@@ -9,4 +9,5 @@ public record User(
         String fullname
 
 ) {
+
 }
